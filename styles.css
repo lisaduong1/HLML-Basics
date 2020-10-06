@@ -1,0 +1,19 @@
+body {
+background-color: white;
+}
+/* makes body background color white */
+
+h1 {
+color: black;
+font-family: Verdana;
+font-size: 200%;
+border: 2px solid grey;
+padding: 10px;
+}
+/* h1 title is black, font: verdana, size= 200%, grey border around text & padding between border and text */
+
+form {
+font-family: times;
+font-size: 125%;
+}
+/* form font is times new roman, size is 125% */
